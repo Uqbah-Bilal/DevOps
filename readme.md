@@ -1,1 +1,4 @@
-"My first project" 
+"My first project"
+
+Just performed my first commit.
+
